@@ -11,3 +11,8 @@
 
 
 > Install Django
+
+
+Flowchart Added
+----------------
+![Installation](userDiagram.drawio)
